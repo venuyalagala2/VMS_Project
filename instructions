@@ -1,0 +1,9 @@
+# for creating project : django-admin startproject VMS
+# for creating app : python manage.py startapp testapp
+#for running server : python manage.py runserver
+#for creating superuser : python manage.py makemigrations
+                          python manage.py migrate
+                          python manage.createsuperuser
+# url for admin panel : python manage.py runserver
+                        127.0.0.0.1:8000/admin
+# allowed host : 127.0.0.0.1:8000
